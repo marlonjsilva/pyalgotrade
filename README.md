@@ -1,4 +1,4 @@
 PyAlgoTrade
 ===========
 
-This project is a fork from (https://github.com/gbeced/pyalgotrade)[PyAlgotrade]
+This project is a fork from [PyAlgotrade](https://github.com/gbeced/pyalgotrade)
